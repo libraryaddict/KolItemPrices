@@ -1,10 +1,10 @@
+Last Updated:	1692683090387
+
 # This is a list of item prices maintained by Irrat and updated via github
 # The prices contained in this are not identical to the ones in game, but are roughly equal. This is meant to tell you what items are worth, not what you can sell them for
 # The difference can be said as, if you sold using the prices in here, you shouldn't expect to be making a profit vs selling them by hand.
 # The prices provided in here do not respect well_stocked, do not respect limits and do not understand when someone is selling at a loss.
 # The prices listed are meant for informational purposes with the `accountval` script. It isn't intended to be usable for maximizing profits
-
-Last Updated:	1692683039773
 
 1	100	1692576253
 2	100	1692576254

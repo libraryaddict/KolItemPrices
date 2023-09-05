@@ -1,4 +1,4 @@
-Last Updated:	1693897038
+Last Updated:	1693897168
 
 # This is a list of item prices maintained by Irrat and updated via github
 # The prices contained in this are not identical to the ones in game, but are roughly equal. This is meant to tell you what items are worth, not what you can sell them for
@@ -6,7 +6,8 @@ Last Updated:	1693897038
 # The prices provided in here do not respect well_stocked, do not respect limits and do not understand when someone is selling at a loss.
 # The prices listed are meant for informational purposes with the `accountval` script. It isn't intended to be usable for maximizing profits
 
-# Item ID	Price	Unix Time (seconds)	Mall volume sales1	100	1692576253	0
+# Item ID	Price	Last Checked	Sold in last week
+1	100	1692576253	0
 2	100	1693564280	48
 3	100	1693742486	1068
 4	100	1692616733	0

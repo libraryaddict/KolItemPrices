@@ -1,4 +1,4 @@
-Last Updated:	1695817945
+Last Updated:	1695818028
 
 # This is a list of item prices maintained by Irrat and updated via github
 # The prices contained in this are not identical to the ones in game, but are roughly equal. This is meant to tell you what items are worth, not what you can sell them for
@@ -2035,7 +2035,7 @@ Last Updated:	1695817945
 2543	200	1695083294	1
 2544	8400	1695689986	127
 2545	200	1695211418	2
-2546	2200	1695817483	78
+2546	2200	1695818022	78
 2562	100	1695083453	2
 2563	100	1695083852	1
 2565	1000	1695384107	1
